@@ -11,7 +11,7 @@ Java / Node JS / Spring Boot/ React JS / Express JS / JS / HTML / CSS
 
 ## Live Projects (click on gifs to view)
 
-Game Development Projects
+#Game Development Projects
 <img src='https://github.com/KunalKing/KunalKing/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true' alt='github' height='200'>
 
 ## My Socials
