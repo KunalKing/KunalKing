@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Kunal
+#### Software Development, Web Development and Game Development
+![Software Development, Web Development and Game Development](banner.png)
 
-<!--
-**KunalKing/KunalKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a focus on software, web, and game development. I enjoy crafting innovative solutions and bringing creative ideas to life through code. My skills encompass a range of technologies and programming languages, allowing me to tackle diverse projects with enthusiasm. I'm always eager to learn and explore new frontiers in the world of development.
 
-Here are some ideas to get you started:
+Skills: Java / Node JS / Spring Boot/ React JS / Express JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
