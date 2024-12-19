@@ -10,7 +10,7 @@ Java / Node JS / Spring Boot/ React JS / Express JS / JS / HTML / CSS
 
 
 ## Live Game Development (Projects click on names to view Live Projects)
-[<img src='https://github.com/KunalKing/KunalKing/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true' alt='github' height='200'>]
+<img src='https://github.com/KunalKing/KunalKing/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true' alt='github' height='200'>
 [Retro Run](https://retroorun.netlify.app/)
 
 ## My Socials
