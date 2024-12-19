@@ -9,6 +9,10 @@ I'm a passionate developer with a focus on software, web, and game development. 
 Java / Node JS / Spring Boot/ React JS / Express JS / JS / HTML / CSS
 
 
+## Live web Development (Projects click on names to view Live Projects)
+<img src='https://github.com/KunalKing/KunalKing/blob/main/Animated%20Travel%20k.gif?raw=true' alt='github' height='200'>
+[Travel Animated Website](https://travelsiteanimation.netlify.app/)
+
 ## Live Game Development (Projects click on names to view Live Projects)
 <img src='https://github.com/KunalKing/KunalKing/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true' alt='github' height='200'>
 [Retro Run](https://retroorun.netlify.app/)
