@@ -9,7 +9,7 @@ I'm a passionate developer with a focus on software, web, and game development. 
 Java / Node JS / Spring Boot/ React JS / Express JS / JS / HTML / CSS
 
 
-##Live Game Development Projects click on gifs to view
+## Live Game Development Projects click on gifs to view
 [<img src='https://github.com/KunalKing/KunalKing/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true' alt='github' height='200'>](https://retroorun.netlify.app/) 
 
 ## My Socials
